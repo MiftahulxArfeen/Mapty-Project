@@ -2,13 +2,13 @@
 
 **Mapty** is a project I built while learning advanced JavaScript. It’s a simple but fun workout tracker where you can log **running** and **cycling** workouts right on an interactive map. It uses **geolocation** to detect your position, **Leaflet.js** for maps, and stores all workouts in **local storage** so they stay saved even after you close the app.
 
-![Mapty UI Screenshot](./assets/screenshots/ui.png)
+![Mapty UI Screenshot](./screenshot.png)
 
 ---
 
 ## 🔗 Live Demo
 
-👉 [Visit Live Site](https://miftahulxarfeen.github.io/mapty/)  
+👉 [Visit Live Site](https://miftahulxarfeen.github.io/Mapty-Project/)  
 📁 [Explore My Other Projects](https://github.com/miftahulxarfeen)
 
 ---
@@ -70,7 +70,7 @@ mapty/
 
 | UI Preview | Architecture Diagram |
 |------------|-----------------------|
-| ![UI](./assets/screenshots/ui.png) | ![Architecture](./assets/screenshots/architecture.png) |
+| ![UI](./screenshot.png) | ![Architecture](./Mapty-architecture-final.png) |
 
 ---
 
